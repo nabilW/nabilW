@@ -3,6 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabil-lhoumch/)
 [![Upwork](https://img.shields.io/badge/Upwork-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://www.upwork.com/freelancers/merchbyamazone)
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/nabilloka)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Lhoumchn@gmail.com)
 
 ## 🚀 About Me
 
@@ -188,6 +189,7 @@ Digital Marketing:
 
 📫 **How to reach me:**
 - 🔗 [LinkedIn](https://www.linkedin.com/in/nabil-lhoumch/)
+- - ✉️ [Email: Lhoumchn@gmail.com](mailto:Lhoumchn@gmail.com)
 - 🌐 [Upwork Portfolio](https://www.upwork.com/freelancers/merchbyamazone)
 - - 🌟 [Fiverr Profile - 150+ 5-Star Reviews](https://www.fiverr.com/nabilloka)
 - 🏢 [Moroccan Aviation Services](https://moroccanaviationservices.com)
