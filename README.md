@@ -1,7 +1,7 @@
 # Hi there, I'm NABIL LHOUMCH 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabil-lhoumch/)
-[![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://www.upwork.com/freelancers/merchbyamazone)
+[![Upwork](https://img.shields.io/badge/Upwork-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://www.upwork.com/freelancers/merchbyamazone)
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/nabilloka)
 
 ## 🚀 About Me
