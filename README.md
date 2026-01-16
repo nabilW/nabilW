@@ -2,6 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabil-lhoumch/)
 [![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://www.upwork.com/freelancers/merchbyamazone)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/nabilloka)
 
 ## 🚀 About Me
 
@@ -80,7 +81,7 @@ Digital Marketing:
 ✅ Reduced system downtime by **40%** through predictive maintenance protocols  
 ✅ Improved inventory accuracy by **35%** with blockchain-based tracking  
 ✅ Increased organic visibility by **120%** through SEO optimization  
-✅ Maintained **4.9+ star rating** across 150+ freelance projects on Fiverr  
+✅ Maintained **5.0 star rating** with **150+ positive reviews** across freelance projects on Fiverr  
 ✅ **Zero safety incidents** across all supervised flight operations  
 
 ---
@@ -147,6 +148,7 @@ Digital Marketing:
 📫 **How to reach me:**
 - 🔗 [LinkedIn](https://www.linkedin.com/in/nabil-lhoumch/)
 - 🌐 [Upwork Portfolio](https://www.upwork.com/freelancers/merchbyamazone)
+- - 🌟 [Fiverr Profile - 150+ 5-Star Reviews](https://www.fiverr.com/nabilloka)
 - 🏢 [Moroccan Aviation Services](https://moroccanaviationservices.com)
 
 ---
