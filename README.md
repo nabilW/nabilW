@@ -7,12 +7,11 @@
 
 ## 🚀 About Me
 
-**Full-Stack Developer & AI Solutions Specialist | SaaS Builder | Aviation Tech Operations | E-commerce Growth Expert | Open to International Opportunities**
+**Full-Stack Developer & AI Solutions Specialist | SaaS Builder | Aviation Tech Operations | E-commerce Growth Expert**
 
 Multidisciplinary IT professional with 4+ years of experience in aviation operations, e-commerce, and digital marketing. Currently serving as **IT Technician & Flight Supervisor at Moroccan Aviation Services**, where I bridge technology and aviation safety to ensure seamless ground operations.
 
 🔹 **Location:** Agadir, Morocco 🇲🇦  
-🔹 **Open to:** International opportunities with visa sponsorship  
 🔹 **Languages:** English, French, Arabic, Tamazight
 
 ---
@@ -63,6 +62,9 @@ Multidisciplinary IT professional with 4+ years of experience in aviation operat
 **Upwork** - POD & E-commerce Specialist (2020-Present)  
 *E-commerce consulting for Amazon, Etsy, and Shopify sellers with 11+ successful projects*
 
+**E-commerce Store Owner** - Print-on-Demand Specialist (2019-Present)  
+*Managing multiple stores across Etsy, Shopify, Amazon Merch by Amazon, and Displate platforms*
+
 ---
 
 ## 🌟 2026 Tech Focus
@@ -83,8 +85,6 @@ I'm actively seeking international opportunities in:
 - Aviation Technology
 - SaaS Product Development
 - E-commerce Solutions
-
-**Open to relocation with visa sponsorship** 🌍
 
 ---
 
